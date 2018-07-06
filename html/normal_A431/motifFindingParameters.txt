@@ -1,0 +1,1 @@
+cmd = /NJPROJ2/Animal/user/macaixia/atac_test_zhouyiqi/P101FY18040004-01/normal_A431/03peakanno/normal_A431_homer.bed hg19 /NJPROJ2/Animal/user/macaixia/atac_test_zhouyiqi/P101FY18040004-01/normal_A431/05motif -len 8,10,12
